@@ -1,4 +1,8 @@
-*{
-  margin: 0;
+body{
+  margin: 1em;
   padding: 0;
+}
+b, i{
+  display: block;
+  margin-top: 1em;
 }
